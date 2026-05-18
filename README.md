@@ -1,47 +1,42 @@
-<!--
-**selin-ma/selin-ma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# 👋🏻 Hi, I'm Selin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend Engineer** · Chengdu
 
-<h1 align="left">👋🏻 Hi, I'm Selin </h1>
+Building things for the web and beyond
 
-<p align="left">
-  frontend dev based in chengdu &nbsp;·&nbsp; building things for the web and beyond
-</p>
+[![Portfolio](https://img.shields.io/badge/portfolio-selin--me.netlify.app-7FA2BF?style=flat-square)](https://selin-me.netlify.app)
+[![kana-jump](https://img.shields.io/badge/kana--jump-kana--jump.netlify.app-7FA2BF?style=flat-square)](https://kana-jump.netlify.app)
+
+</div>
 
 ---
 
-**now**
-- building **kana-jump** — a Japanese kana learning app with spaced repetition
-- exploring full-stack & AI application development  
-- leading **Twinkle Pickle Club** — competing in pickleball across China 
+## 🛠️ Now
+
+- **[kana-jump](https://kana-jump.netlify.app)** — Japanese learning PWA with FSRS spaced repetition, kana & vocabulary practice · [`repo`](https://github.com/selin-ma/kana-jump)
+- **[selin.me](https://selin-me.netlify.app)** — Personal portfolio, bilingual (zh/en), built with Next.js 14 + Framer Motion · [`repo`](https://github.com/selin-ma/selin-me)
+- **Twinkle Pickle Club** — Leading a pickleball team, competing across China
 
 ---
 
-**projects**
+## 📦 Projects
 
-| | |
-|---|---|
-| [**selin-me**](https://selin-me.netlify.app) | personal portfolio — who i am, what i build · `Next.js` `TypeScript` `Tailwind` |
-| [**kana-jump**](https://github.com/selin-ma/kana-jump) | japanese kana learning app with FSRS · `React` `TypeScript` `Supabase` |
-| **twinkle pickle club** | pickleball club & community platform · `coming soon` |
-
----
-
-**stack**
-
-`React` `Next.js` `TypeScript` `Tailwind CSS` `Supabase` `Turborepo` `AWS Lambda` `Storybook` `Node.js`
+| Project | Stack | Status |
+|---|---|---|
+| [**selin.me**](https://selin-me.netlify.app) · portfolio | `Next.js` `TypeScript` `Framer Motion` `Tailwind` | 🟢 live |
+| [**kana-jump**](https://kana-jump.netlify.app) · Japanese learning | `React` `TypeScript` `Vite` `Supabase` `PWA` | 🟢 live |
+| **Twinkle Pickle Club** · community | — | 🟡 building |
 
 ---
 
-<sub>reach me → <a href="https://selin-me.netlify.app">selin-me.netlify.app</a></sub>
+## 🧰 Stack
+
+`React` `Next.js` `TypeScript` `Tailwind CSS` `Supabase` `Turborepo` `AWS Lambda` `Storybook` `Vite` `Node.js`
+
+---
+
+<div align="center">
+  <sub>📬 <a href="https://selin-me.netlify.app">selin-me.netlify.app</a></sub>
+</div>

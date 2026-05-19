@@ -2,7 +2,7 @@
 
 # 👋🏻 Hi, I'm Selin
 
-**Frontend Engineer** · Chengdu
+**Frontend Engineer** 
 
 Building things for the web and beyond
 

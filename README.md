@@ -7,7 +7,7 @@
 Building things for the web and beyond
 
 [![Portfolio](https://img.shields.io/badge/portfolio-selin--me.netlify.app-7FA2BF?style=flat-square)](https://selin-me.netlify.app)
-[![kana-jump](https://img.shields.io/badge/kana--jump-kana--jump.netlify.app-7FA2BF?style=flat-square)](https://kana-jump.netlify.app)
+[![Kana Jump!](https://img.shields.io/badge/kana--jump-kana--jump.netlify.app-7FA2BF?style=flat-square)](https://kana-jump.netlify.app)
 
 </div>
 

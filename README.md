@@ -15,9 +15,10 @@ Building things for the web and beyond
 
 ## 🛠️ Now
 
-- **[kana-jump](https://kana-jump.netlify.app)** — Japanese learning PWA with FSRS spaced repetition, kana & vocabulary practice · [`repo`](https://github.com/selin-ma/kana-jump)
-- **[selin.me](https://selin-me.netlify.app)** — Personal portfolio, bilingual (zh/en), built with Next.js 14 + Framer Motion · [`repo`](https://github.com/selin-ma/selin-me)
-- **Twinkle Pickle Club** — Leading a pickleball team, competing across China
+- **[Kana Jump](https://kana-jump.netlify.app)** — Japanese learning PWA with FSRS spaced repetition, kana & vocabulary practice · [`repo`](https://github.com/selin-ma/kana-jump)
+- **[Selin.me](https://selin-me.netlify.app)** — Personal portfolio, bilingual (zh/en), built with Next.js 14 + Framer Motion · [`repo`](https://github.com/selin-ma/selin-me)
+- **[Twinkle Pickle](https://twinklepickle.cn/)** Pickleball club website · Chengdu 
+- **Droplog** — WeChat mini-program · pickleball session logs, training records, match stats & player intel
 
 ---
 
@@ -27,7 +28,8 @@ Building things for the web and beyond
 |---|---|---|
 | [**selin.me**](https://selin-me.netlify.app) · portfolio | `Next.js` `TypeScript` `Framer Motion` `Tailwind` | 🟢 live |
 | [**kana-jump**](https://kana-jump.netlify.app) · Japanese learning | `React` `TypeScript` `Vite` `Supabase` `PWA` | 🟢 live |
-| **Twinkle Pickle Club** · community | — | 🟡 building |
+| **Twinkle Pickle** · community | `Next.js` | 🟡 building |
+| **Droplog** · wechat miniprogram | `Taro 4` | 🟡 building |
 
 ---
 
